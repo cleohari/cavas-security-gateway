@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.2.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>de.cavas</groupId>
 	<artifactId>cavas-security-gateway</artifactId>
@@ -107,7 +107,7 @@
 		<dependency>
 			<groupId>io.swagger</groupId>
 			<artifactId>swagger-models</artifactId>
-			<version>1.5.1</version>
+			<version>1.6.7</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/io.swagger/swagger-core -->
 		<dependency>
