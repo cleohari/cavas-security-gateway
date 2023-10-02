@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.2.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>de.cavas</groupId>
 	<artifactId>cavas-security-gateway</artifactId>
@@ -72,7 +72,7 @@
 		<dependency>
 			<groupId>io.kubernetes</groupId>
 			<artifactId>client-java</artifactId>
-			<version>3.0.0</version>
+			<version>16.0.0</version>
 			<scope>compile</scope>
 		</dependency>
 
